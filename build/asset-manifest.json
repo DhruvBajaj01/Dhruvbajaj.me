@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4bc5085.css",
+    "main.js": "/static/js/main.f3227fc0.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/static/media/home-main.6bc384b8f941d402ef0c9045ece883e4.svg",
+    "static/media/avatar.svg": "/static/media/avatar.dd0bd2660adbad1cd05f1cbbf1f5b18d.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.55c6666a808038ce9839.jpg",
+    "static/media/about.png": "/static/media/about.9e4a4a1e20a6c3f27dcb.png",
+    "static/media/hola.png": "/static/media/hola.74a5e1c0ef0dc09c290c.png",
+    "static/media/Flight.png": "/static/media/Flight.da64753c88cc6253a6dc.png",
+    "static/media/HighR.png": "/static/media/HighR.fed64a02f5092ec52907.png",
+    "static/media/major.png": "/static/media/major.2790e165bd257e43bb28.png",
+    "static/media/cyclo.png": "/static/media/cyclo.ee1bdba3d8e32f52cb90.png",
+    "static/media/DhruvBajaj_Resume.pdf": "/static/media/DhruvBajaj_Resume.dae78ae0273013ac05a1.pdf",
+    "static/media/Lung.svg": "/static/media/Lung.5df760144e39202ab577792c8532ee7b.svg",
+    "static/media/logo.png": "/static/media/logo.227e5b5d44145d81529a.png",
+    "static/media/pre.svg": "/static/media/pre.f6de938152e8c5af3bdd.svg",
+    "index.html": "/index.html",
+    "main.a4bc5085.css.map": "/static/css/main.a4bc5085.css.map",
+    "main.f3227fc0.js.map": "/static/js/main.f3227fc0.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bc5085.css",
+    "static/js/main.f3227fc0.js"
+  ]
+}
