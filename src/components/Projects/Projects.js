@@ -44,7 +44,7 @@ function Projects() {
               description="Built a Full-stack Invoice Management Application
               using ReactJS, JDBC Servlets, Java, Python,
               Postgres DB and added components of Machine
-              Learning Models for payment prediction"
+              Learning Models for payment prediction."
               ghLink="https://github.com/DhruvBajaj01/High_Radius_Project"
             />
           </Col>
@@ -69,7 +69,7 @@ function Projects() {
               isBlog={false}
               title="CycloFit"
               description="A web-based application which allows users to rent
-              bicycles and awards them for as per the distance
+              bicycles and awards them as per the distance
               they cover. Built with HTML, CSS, JavaScript,
               Bootstrap, Flask, SQLite and SQLAlchemy."
               ghLink="https://github.com/DhruvBajaj01/CycloFit-SEPM"

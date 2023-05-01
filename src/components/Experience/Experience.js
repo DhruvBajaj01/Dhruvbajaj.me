@@ -39,8 +39,8 @@ function Experience() {
             time = 'Jan 2022 - Apr 2022 | Remote'
             description="•Developed and deployed a Fintech B2B cloud application using React.js, Java, and machine learning components, enabling Account Receivable users to view, process, and predict invoice payments.
             "
-            description_p="•Built a full-stack invoice management application with React, JDBC, and Java, featuring data visualization, searching, editing, and deleting capabilities, as well as a responsive Receivables dashboard."
-            description_r="•Demonstrated expertise in front-end and back-end development, as well as data visualization, processing, and predictive modeling using machine learning components"
+            description_p="•Built a full-stack invoice management application with React, JDBC, Postgres, Python and Java, featuring data managment, searching, editing, and deleting capabilities, as well as a responsive dashboard."
+            description_r="•Demonstrated expertise in front-end and back-end development, as well as data visualization, processing, and predictive modeling using machine learning components."
             />
           </Col>
 
@@ -49,12 +49,12 @@ function Experience() {
               title="Python Development Intern"
             subtitle='Docplus Online'
             time = 'Jul 2021 – Jan 2022 | Remote'
-              description="•Proficient in utilizing Python's Selenium and Beautiful Soup libraries to scrape healthcare websites, gather data on doctors, hospitals, and medicines, and automate data fetching processes.
+              description="•Achieved proficiency in utilizing Python's Selenium and Beautiful Soup libraries to scrape healthcare websites, gather data on doctors, hospitals, and medicines, and automate data fetching processes.
               "
-              description_p="•Experienced in developing and implementing Python scripts
+              description_p="•Developed and implemented Python scripts
                for real-time data retrieval and translation of website content into
                 over 65 languages."
-              description_r='•Skilled in automation scripting and testing using Selenium, 
+              description_r='•Performed automation scripting and testing using Selenium, 
               ensuring accuracy and reliability of data extraction and automation processes.'            
             />
           </Col>
@@ -64,14 +64,14 @@ function Experience() {
             title="Data Mining Intern"
             subtitle='Make Me Builder'
             time = 'Apr 2021 – Jul 2021 | Virtual'
-            description=" •Proficient in designing and implementing algorithms for 
+            description=" •Designed and implemented algorithms for 
             data cleaning and data profiling using Python and Pandas, ensuring high data quality
              and consistency.
               "
-            description_p=" •Skilled in performing thorough Exploratory Data Analysis (EDA) 
+            description_p=" •Performed thorough Exploratory Data Analysis (EDA) 
             on datasets, utilizing a variety of statistical and visualization 
             techniques to gain insights into data patterns and relationships."
-            description_r='•Proficient in maintaining organized data in a specific order 
+            description_r='•Achieved proficiency in maintaining organized data in a specific order 
             through efficient data manipulation and management techniques, 
             ensuring accessibility and usability for downstream analysis and reporting.'
             />
@@ -82,12 +82,17 @@ function Experience() {
             title="Machine Learing Intern"
             subtitle='Madras Scientific Research Foundation'
             time = 'Feb 2021 – Apr 2021 | Remote'
-              description=" •Leveraged Python's Selenium and Beautiful Soup libraries to scrape
-              healthcare websites for information on doctors, hospitals, and medicines.
+              description=" Wrote academic blogs on Machine Learning and 
+              worked on research projects. One project involved developing an 
+              autocompletion feature using NLP and Python libraries such as 
+              Spacy and FastAutocomplete. 
               "
-              description_p="•Developed and automated Python scripts for real-time data fetching,
-              database handling with Excel, and translation of website content
-              into 65 languages"
+              description_p="Another project was implementing image recognition
+               and feature detection using Caffe library and explaining its
+                working."
+
+              description_r=" Lastly, I implemented the SURF research paper and its 
+              application in OpenCV for real-time object detection."
               
             />
           </Col>
@@ -116,7 +121,7 @@ function Experience() {
           My <strong className="purple"> Positions of Responsibility </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few extra-curricular.
+          Here are a few extra-curriculars.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="experience-card">

@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { GoPrimitiveDot } from "react-icons/go";
 
 function AboutCard() {
   return (
@@ -10,27 +10,28 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Dhruv Bajaj </span>
             from <span className="purple"> Kanpur, India.</span>
-            <br />I am a Software Engineer pursuing Btech. in Computer Science from SRMIST.
+            <br />I am a Software Engineer pursuing Bachelor of Technology in Computer Science Engineering from <span className="purple">SRM Institute of Science and Technology</span>.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, here are some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <GoPrimitiveDot /> Playing Sports
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <GoPrimitiveDot /> Travelling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <GoPrimitiveDot /> Listening to Music
             </li>
           </ul>
-
+          <br></br>
+          <br></br>
           <p style={{ color: "rgb(15 226 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Dhruv</footer>
+          
         </blockquote>
       </Card.Body>
     </Card>

@@ -11,6 +11,7 @@ function Type() {
           "Data Scientist",
           "Full Stack Developer",
           "Open Source Contributor",
+          "IoT Engineer"
         ],
         autoStart: true,
         loop: true,
