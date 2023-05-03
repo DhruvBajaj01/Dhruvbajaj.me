@@ -7,6 +7,9 @@ import {
   SiTableau,
   SiAnaconda,
   SiPycharm,
+  SiGithub,
+  SiEclipseide,
+  
 } from "react-icons/si";
 
 function Toolstack() {
@@ -29,6 +32,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTableau />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiEclipseide />
       </Col>
     </Row>
   );
