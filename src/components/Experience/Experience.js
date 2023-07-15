@@ -19,6 +19,42 @@ function Experience() {
           <Col md={4} className="experience-card">
             <ExperienceCards
               title="Software Engineering Intern"
+              subtitle='Natwest Group'
+              time = 'May 2023 – Present | Gurugram, Haryana'
+              description="•Developed and maintained Python-based adaptors/middleware for the Treasury Intraday Liquidity Management system, creating seamless integration with upstream data sources like ledger messages and payment settlement messages, ensuring accurate and efficient data processing.
+              "
+              description_r="•Designed and implemented automation scripts in Python, optimizing workflow processes and improving operational efficiency for the Treasury Intraday Liquidity Management system.
+              "
+              description_p="•Deployed and managed the software on servers, actively monitoring performance and implementing measures for high availability and reliability of the system."
+            />
+          </Col>
+          <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Backend Engineering Intern"
+              subtitle='Studio Lama'
+              time = 'Mar 2023 – Present | Remote'
+              description="•Designed and developed a robust backend application for Apply Course using Django framework and PostgreSQL, enabling efficient management and processing of course applications.
+              "
+              description_r="•Implemented user profiles with different roles and permissions, ensuring secure access to the database based on assigned roles, effectively managing user privileges and data confidentiality.
+              "
+              description_p="•Collaborated closely with the frontend team to ensure seamless integration between the frontend and backend systems, providing a smooth user experience and efficient data retrieval and manipulation."
+            />
+          </Col>
+          <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Backend Engineering Intern"
+              subtitle='Global Technocrats'
+              time = 'Jan 2023 – Mar 2023 | Remote'
+              description="•Developed backend systems using Django framework for machine learning models and scraping scripts, enabling efficient data processing and analysis
+              "
+              description_r="•Created microservices using AWS Lambda to optimize backend models, resulting in modular and easily maintainable codebases.
+              "
+              description_p="•Deployed Django-based backend on AWS, utilizing services like AWS Elastic Beanstalk and AWS RDS for optimal performance, high availability, and scalability."
+            />
+          </Col>
+          <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Software Engineering Intern"
               subtitle='Arista Networks'
               time = 'Aug 2022 – Dec 2022 | Bangalore, Karnataka'
               description="•Proficient in layer 2 and layer 3 networking protocols, 

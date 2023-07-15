@@ -156,8 +156,16 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
+  height: 2.5em !important;
   width: 2.5em !important;
+  border-radius: 50%;
+  
+}
+
+.logo:hover {
+  transform: scale(1.02) !important;
+  overflow: hidden !important;
+  box-shadow: 1px 1px 20px rgba(13, 237, 28, 0.561) !important;
 }
 
 .navbar-nav .nav-link {
@@ -481,7 +489,7 @@ button:focus {
 }
 
 .exp-com-primary {
-  color: #15e82ad7 !important; 
+  color: #39f25e !important; 
 }
 
 .blog-card {
