@@ -18,7 +18,19 @@ function Experience() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="experience-card">
             <ExperienceCards
-              title="Software Engineering Intern"
+              title="Backend Developer"
+              subtitle='Aristan'
+              time = 'Oct 2023 – May 2024 | Sanfrancisco, California Remote'
+              description="•Demonstrated proficiency in enhancing core functionalities of the product, including authentication, login systems, and APIs for campaigns and playbooks. Utilized comprehensive knowledge to streamline user experience and ensure seamless operation across diverse functionalities.
+              "
+              description_r="•Successfully integrated third-party solutions such as Gmail, Outlook, Warmy, Mailgenius, and Sendgrid, enriching the product's capabilities and providing users with expanded options for communication and campaign management. Customized integration processes to optimize performance and compatibility.
+              "
+              description_p="•Implemented foundational databases for critical aspects of the product, including pending emails, workflows, and templates. Leveraged expertise in database design and management to ensure efficient data storage, retrieval, and manipulation, contributing to the product's robustness and scalability."
+            />
+          </Col>
+          <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Software Developer"
               subtitle='Natwest Group'
               time = 'May 2023 – Present | Gurugram, Haryana'
               description="•Developed and maintained Python-based adaptors/middleware for the Treasury Intraday Liquidity Management system, creating seamless integration with upstream data sources like ledger messages and payment settlement messages, ensuring accurate and efficient data processing.
@@ -30,9 +42,9 @@ function Experience() {
           </Col>
           <Col md={4} className="experience-card">
             <ExperienceCards
-              title="Backend Engineering Intern"
+              title="Backend Engineer"
               subtitle='Studio Lama'
-              time = 'Mar 2023 – Present | Remote'
+              time = 'Jan 2023 – May 2023 | Remote'
               description="•Designed and developed a robust backend application for Apply Course using Django framework and PostgreSQL, enabling efficient management and processing of course applications.
               "
               description_r="•Implemented user profiles with different roles and permissions, ensuring secure access to the database based on assigned roles, effectively managing user privileges and data confidentiality.
@@ -42,7 +54,7 @@ function Experience() {
           </Col>
           <Col md={4} className="experience-card">
             <ExperienceCards
-              title="Backend Engineering Intern"
+              title="Backend Engineer"
               subtitle='Global Technocrats'
               time = 'Jan 2023 – Mar 2023 | Remote'
               description="•Developed backend systems using Django framework for machine learning models and scraping scripts, enabling efficient data processing and analysis
