@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4bc5085.css",
-    "main.js": "/static/js/main.f3227fc0.js",
+    "main.css": "/static/css/main.a4a1cb02.css",
+    "main.js": "/static/js/main.1c34ca5b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/home-main.svg": "/static/media/home-main.6bc384b8f941d402ef0c9045ece883e4.svg",
@@ -15,16 +15,16 @@
     "static/media/cyclo.png": "/static/media/cyclo.ee1bdba3d8e32f52cb90.png",
     "static/media/DhruvBajaj_Resume.pdf": "/static/media/DhruvBajaj_Resume.dae78ae0273013ac05a1.pdf",
     "static/media/Lung.svg": "/static/media/Lung.5df760144e39202ab577792c8532ee7b.svg",
-    "static/media/logo.png": "/static/media/logo.227e5b5d44145d81529a.png",
-    "static/media/pre.svg": "/static/media/pre.f6de938152e8c5af3bdd.svg",
+    "static/media/logo.jpg": "/static/media/logo.f5cc164f70956867aac7.jpg",
+    "static/media/pre.svg": "/static/media/pre.dd431c3eb53f332bc035.svg",
     "index.html": "/index.html",
-    "main.a4bc5085.css.map": "/static/css/main.a4bc5085.css.map",
-    "main.f3227fc0.js.map": "/static/js/main.f3227fc0.js.map",
+    "main.a4a1cb02.css.map": "/static/css/main.a4a1cb02.css.map",
+    "main.1c34ca5b.js.map": "/static/js/main.1c34ca5b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4bc5085.css",
-    "static/js/main.f3227fc0.js"
+    "static/css/main.a4a1cb02.css",
+    "static/js/main.1c34ca5b.js"
   ]
 }

@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { GoPrimitiveDot } from "react-icons/go";
+import { GoDotFill } from "react-icons/go";
 
 function AboutCard() {
   return (
@@ -8,22 +8,22 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Dhruv Bajaj </span>
-            from <span className="purple"> Kanpur, India.</span>
-            <br />I am a Software Engineer pursuing Bachelor of Technology in Computer Science Engineering from <span className="purple">SRM Institute of Science and Technology</span>.
+            Hi Everyone, I am <span className="purple">Dhruv </span>
+            from <span className="purple">India.</span>
+            <br />I am a Software Engineer with Bachelor of Technology in <span className="purple">Computer Science Engineering</span>. I am passionate about technology and building software products. 
             <br />
             <br />
             Apart from coding, here are some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <GoPrimitiveDot /> Playing Sports
+              <GoDotFill /> Playing Sports
             </li>
             <li className="about-activity">
-              <GoPrimitiveDot /> Travelling
+              <GoDotFill /> Travelling
             </li>
             <li className="about-activity">
-              <GoPrimitiveDot /> Listening to Music
+              <GoDotFill /> Listening to Music
             </li>
           </ul>
           <br></br>

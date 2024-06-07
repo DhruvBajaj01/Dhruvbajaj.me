@@ -16,16 +16,29 @@ function Experience() {
           Here are a few compaines I've worked for recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+            <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Founding Engineer - Senior Backend Developer"
+              subtitle='Nuvia'
+              time = 'Jun 2024 – Present |  São Paulo, Brazil Remote'
+              description="•Designing and implementing Nuvia's foundational backend architecture, including APIs and data models, with a focus on integrating Large Language Models (LLMs).
+              "
+              description_r="•Developing and maintaining a robust, scalable, and high-performance backend infrastructure for Nuvia's products, ensuring seamless integration and operational efficiency.
+              "
+              description_p="•Leading and mentoring a team of backend developers, providing strategic guidance and technical support to ensure successful project delivery and the achievement of team objectives."
+  
+            />
+          </Col>
           <Col md={4} className="experience-card">
             <ExperienceCards
-              title="Backend Developer"
-              subtitle='Aristan'
-              time = 'Oct 2023 – May 2024 | Sanfrancisco, California Remote'
-              description="•Demonstrated proficiency in enhancing core functionalities of the product, including authentication, login systems, and APIs for campaigns and playbooks. Utilized comprehensive knowledge to streamline user experience and ensure seamless operation across diverse functionalities.
+              title="Founding Engineer - Backend Developer"
+              subtitle='Aristan AI'
+              time = 'Oct 2023 – May 2024 | California, US Remote'
+              description="• Designed and developed frameworks for the product, including the core backend architecture, APIs, and data models, ensuring robustness, scalability, and performance.
               "
-              description_r="•Successfully integrated third-party solutions such as Gmail, Outlook, Warmy, Mailgenius, and Sendgrid, enriching the product's capabilities and providing users with expanded options for communication and campaign management. Customized integration processes to optimize performance and compatibility.
+              description_r="• Successfully integrated third-party solutions such as Appolo, Gmail, Outlook, Warmy, Mailgenius, and Sendgrid, enriching the product's capabilities and providing users with expanded options for communication and campaign management.
               "
-              description_p="•Implemented foundational databases for critical aspects of the product, including pending emails, workflows, and templates. Leveraged expertise in database design and management to ensure efficient data storage, retrieval, and manipulation, contributing to the product's robustness and scalability."
+              description_p="• Optimised (LLM) calls by batching and parallelising processes, significantly reducing response times from several hours to just a few minutes."
             />
           </Col>
           <Col md={4} className="experience-card">
@@ -44,7 +57,7 @@ function Experience() {
             <ExperienceCards
               title="Backend Engineer"
               subtitle='Studio Lama'
-              time = 'Jan 2023 – May 2023 | Remote'
+              time = 'Jan 2023 – May 2023 | India Remote'
               description="•Designed and developed a robust backend application for Apply Course using Django framework and PostgreSQL, enabling efficient management and processing of course applications.
               "
               description_r="•Implemented user profiles with different roles and permissions, ensuring secure access to the database based on assigned roles, effectively managing user privileges and data confidentiality.
@@ -56,7 +69,7 @@ function Experience() {
             <ExperienceCards
               title="Backend Engineer"
               subtitle='Global Technocrats'
-              time = 'Jan 2023 – Mar 2023 | Remote'
+              time = 'Jan 2023 – Mar 2023 | India Remote'
               description="•Developed backend systems using Django framework for machine learning models and scraping scripts, enabling efficient data processing and analysis
               "
               description_r="•Created microservices using AWS Lambda to optimize backend models, resulting in modular and easily maintainable codebases.
@@ -84,7 +97,7 @@ function Experience() {
             <ExperienceCards
             title="Full Stack Developer Intern"
             subtitle='HighRadius'
-            time = 'Jan 2022 - Apr 2022 | Remote'
+            time = 'Jan 2022 - Apr 2022 | India Remote'
             description="•Developed and deployed a Fintech B2B cloud application using React.js, Java, and machine learning components, enabling Account Receivable users to view, process, and predict invoice payments.
             "
             description_p="•Built a full-stack invoice management application with React, JDBC, Postgres, Python and Java, featuring data managment, searching, editing, and deleting capabilities, as well as a responsive dashboard."

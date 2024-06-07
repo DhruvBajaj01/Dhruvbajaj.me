@@ -24,7 +24,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={major}
-              isBlog={false}
+              isBlog={true}
               title="IoT enabled Smart Irrigation System in Aquaponics using Machine Learning"
               description="A soil irrigation system using aquaponics
               incorporates real-time sensors to monitor key
@@ -32,7 +32,7 @@ function Projects() {
               learning algorithms and presented visually for
               decision-making and system optimization.
               "
-              ghLink="https://github.com/DhruvBajaj01"
+              ghLink="https://link.springer.com/chapter/10.1007/978-981-99-8451-0_17"
             />
           </Col>
 

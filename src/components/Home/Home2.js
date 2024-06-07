@@ -19,43 +19,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a <b className="purple">Software Engineer</b> and I aspire to grow and upskill myself significantly along my career path.
+              I am a <b className="purple">Software Developer</b> and my professional journey is driven by an unwavering commitment to continuous growth and advancement.
 
               <br/>
               <br/>
               I am fascinated by technologies that can bring positive changes, 
               and every day I try to dive a little deeper into the vast ocean of programming 
               languages, tools, frameworks, and architectures that contribute 
-              to the progress of the world we are living in.
+              to the progress of the world and shaping the future.
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C, C++, Python and Javascript. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning, Machine Learning and Digital Image Processing.
-                </b>
-              
+              <br /> My proficiency spans foundational languages such as 
+              <b className="purple"> C, C++, Python and Javascript </b>
+              serving as the bedrock for my exploration and innovation.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              in <b className="purple">Internet of Things </b> and
-              
-                <b className="purple">
-                  {" "}
-                  Modern Python Library and Frameworks
-                </b>
-              
-              &nbsp; like
-              <i>
-                <b className="purple"> Tensorflow, Keras, Django and Flask</b>
-              </i>
+              Primarily, I thrive in the dynamic realm of crafting cutting-edge 
+              <b className="purple"> web technologies and products, </b>
+              where I orchestrate the convergence of creativity and functionality. 
+              Additionally, my passion extends to the frontiers of
+              <b className="purple"> Deep Learning, Machine Learning, Digital Image Processing and Large Language Model </b> 
+              areas where I actively seek to push boundaries and pioneer new solution
+              <br />
+              <br />
+              Furthermore, I find fulfillment in exploring the intersection of technology and tangible applications, 
+              particularly within the realms of the <b className="purple">Internet of Things </b>.
+              I'm adept at utilizing modern Python libraries and frameworks like <b className="purple">Django, Flask, FastAPI, TensorFlow and Keras </b>
+              to bring ideas to life.
+              <br />
+              <br />
+              In essence, I am not merely a software engineer, I am a relentless pursuer of excellence, an advocate for innovation, and a catalyst for positive change through technology.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
