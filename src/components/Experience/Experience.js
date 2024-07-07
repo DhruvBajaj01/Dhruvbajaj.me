@@ -16,19 +16,7 @@ function Experience() {
           Here are a few compaines I've worked for recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-            <Col md={4} className="experience-card">
-            <ExperienceCards
-              title="Founding Engineer - Senior Backend Developer"
-              subtitle='Nuvia'
-              time = 'Jun 2024 – Present |  São Paulo, Brazil Remote'
-              description="•Designing and implementing Nuvia's foundational backend architecture, including APIs and data models, with a focus on integrating Large Language Models (LLMs).
-              "
-              description_r="•Developing and maintaining a robust, scalable, and high-performance backend infrastructure for Nuvia's products, ensuring seamless integration and operational efficiency.
-              "
-              description_p="•Leading and mentoring a team of backend developers, providing strategic guidance and technical support to ensure successful project delivery and the achievement of team objectives."
-  
-            />
-          </Col>
+          
           <Col md={4} className="experience-card">
             <ExperienceCards
               title="Founding Engineer - Backend Developer"
