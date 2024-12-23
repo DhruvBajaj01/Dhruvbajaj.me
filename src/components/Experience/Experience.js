@@ -16,11 +16,36 @@ function Experience() {
           Here are a few compaines I've worked for recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          
+        <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Founding Engineer - Backend Developer"
+              subtitle='Nuvia AI'
+              time = 'Jun 2024 – Dec 2024 | Sao Paulo, Brazil Remote'
+              description="• Designed and implemented the complete backend architecture using FastAPI, PostgreSQL, SQLAlchemy, and Redis, ensuring a robust, scalable, and high-performing platform.
+              "
+              description_r="• Integrated third-party solutions such as Gmail, Outlook, Warmy, Mailgenius, and Sendgrid, enriching the platform with advanced communication and campaign management capabilities.
+              "
+              description_p="• Developed critical features, including secure user authentication with middleware and JWT tokens, workspace models, and comprehensive infrastructures for mailbox, campaign management, inbox handling, and user account settings.
+              "
+            />
+          </Col>
+          <Col md={4} className="experience-card">
+            <ExperienceCards
+              title="Software Backend Developer"
+              subtitle='Stack AI (YC W23)'
+              time = 'Jul 2024 – Nov 2024 | California, US Remote'
+              description="• Migrated and refactored the existing backend nodes of the no-code platform from an outdated architecture to a new input-output structure, eliminating edge-based data storage for enhanced scalability, performance, and maintainability.
+              "
+              description_r="• Designed and implemented Gmail and Outlook input-output nodes for seamless email sending and created trigger nodes that automate predefined actions upon receiving emails, improving workflow automation and user productivity.
+              "
+              description_p="• Conceptualized and developed an in-house notification and alert system to provide real-time updates and enhance user engagement while ensuring smooth platform functionality.
+              "
+            />
+          </Col>
           <Col md={4} className="experience-card">
             <ExperienceCards
               title="Founding Engineer - Backend Developer"
-              subtitle='Aristan AI'
+              subtitle='Aristan AI (YC W24)'
               time = 'Oct 2023 – May 2024 | California, US Remote'
               description="• Designed and developed frameworks for the product, including the core backend architecture, APIs, and data models, ensuring robustness, scalability, and performance.
               "
