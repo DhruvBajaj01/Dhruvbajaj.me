@@ -45,7 +45,7 @@ function Experience() {
           <Col md={4} className="experience-card">
             <ExperienceCards
               title="Founding Engineer - Backend Developer"
-              subtitle='Aristan AI (YC W24)'
+              subtitle='Artisan AI (YC W24)'
               time = 'Oct 2023 – May 2024 | California, US Remote'
               description="• Designed and developed frameworks for the product, including the core backend architecture, APIs, and data models, ensuring robustness, scalability, and performance.
               "
